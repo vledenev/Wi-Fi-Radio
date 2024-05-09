@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESP32-WROVER-IE")(type "KiCad")(uri "${KIPRJMOD}/components/ESP32-WROVER-IE")(options "")(descr ""))
+  (lib (name "VS1053B")(type "KiCad")(uri "${KIPRJMOD}/components/VS1053B")(options "")(descr ""))
+  (lib (name "CG0603MLA-5.5ME")(type "KiCad")(uri "${KIPRJMOD}/components/CG0603MLA-5.5ME")(options "")(descr ""))
+)
